@@ -1,0 +1,146 @@
+.footerSupremeContainer {
+    width: 100%;
+    background-color: white;
+    border-top: 1px solid rgb(209, 209, 209);
+  }
+  
+  .footerMainContainer {
+    max-width: 70rem;
+    margin: 0 auto;
+    display: flex;
+    padding: 4rem 1rem;
+    column-gap: 5rem;
+  }
+  
+  .container1,
+  .container2,
+  .container3 {
+    width: 33.33%;
+  }
+  
+  .container1,
+  .container2,
+  .container3 {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .footerLogo {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+  }
+  
+  .footerLogo,
+  .container2Heading,
+  .container3Heading {
+    margin-bottom: 0.75rem;
+  }
+  
+  .footerLogo > img {
+    width: 225px;
+    object-fit: contain;
+  }
+  
+  .footerLogo > span > span {
+    font-weight: bold;
+  }
+  
+  .footerDescription {
+    color: rgba(0, 0, 0, 0.75);
+    line-height: 1.25rem;
+    text-align: left;
+    margin-top: 0.5rem;
+    letter-spacing: 0.03em;
+    font-size: medium;
+  }
+  
+  .container2Heading,
+  .container3Heading {
+    text-overflow: unset;
+    overflow: unset;
+    display: block;
+    -webkit-box-orient: unset;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    letter-spacing: 0.03em;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 1);
+  }
+  
+  .container2Links,
+  .container3Links {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .links {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+    width: fit-content;
+    color: rgba(0, 0, 0, 0.75);
+    letter-spacing: 0.01em;
+    position: relative;
+    transition: color 0.6s ease; /* Add a transition for color change */
+  }
+  
+  .copyRightTagline {
+    display: flex;
+    padding: 1rem 1rem;
+    font-size: small;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+  }
+  
+  @media only screen and (max-width: 701px) {
+    .footerMainContainer {
+      flex-direction: column;
+      column-gap: 0;
+      row-gap: 2rem;
+      padding: 2rem 1rem;
+    }
+  
+    .container1,
+    .container2,
+    .container3 {
+      width: 100%;
+    }
+  }
+  
+  @media only screen and (max-width: 353px) {
+    .copyRightTagline {
+      padding: 1rem 0.5rem;
+      font-size: 0.75rem;
+    }
+  }
+  
+  @media only screen and (max-width: 311px) {
+    .copyRightTagline {
+      padding: 1rem 0.4rem;
+      font-size: 0.7rem;
+    }
+  }
+  
+  @media only screen and (max-width: 288px) {
+    .copyRightTagline {
+      font-size: 0.65rem;
+    }
+  }
+  
+  @media only screen and (max-width: 269px) {
+    .copyRightTagline {
+      font-size: 0.6rem;
+    }
+  }
+  
+  @media only screen and (max-width: 249px) {
+    .copyRightTagline {
+      font-size: 0.55rem;
+    }
+  }
+  

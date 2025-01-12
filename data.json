@@ -1,0 +1,50 @@
+{
+    "furniture": {
+      "center-tables": [
+        {
+          "productCode": "CT001",
+          "material": "Sheesham Wood",
+          "Finish": "Natural Polish",
+          "size": "120x60x45 cm",
+          "image": "https://picsum.photos/200"
+        },
+        {
+          "productCode": "CT002",
+          "material": "Teak Wood",
+          "Finish": "Walnut Finish",
+          "size": "100x50x40 cm",
+          "image": "https://picsum.photos/200"
+        }
+      ],
+      "dining-tables": [
+        {
+          "productCode": "DT001",
+          "material": "Sheesham Wood",
+          "Finish": "Honey Finish",
+          "size": "180x90x75 cm",
+          "image": "https://picsum.photos/200"
+        }
+      ]
+    },
+    "decor": {
+      "vases": [
+        {
+          "productCode": "V001",
+          "material": "Ceramic",
+          "Finish": "Glossy White",
+          "size": "30x10x10 cm",
+          "image": "https://picsum.photos/200"
+        }
+      ],
+      "lamps": [
+        {
+          "productCode": "L001",
+          "material": "Metal",
+          "Finish": "Matte Black",
+          "size": "50x20x20 cm",
+          "image": "https://picsum.photos/200"
+        }
+      ]
+    }
+  }
+  
