@@ -1,0 +1,87 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&display=swap');
+
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+   
+}
+
+.root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  
+}
+
+.root > div {
+    color: black;
+    margin-top: 2rem;
+    text-transform: capitalize;
+}
+
+.root > div > h1 {
+    font-weight: 400;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    line-height: 1.1;
+    letter-spacing: 0.03em;
+    font-size: clamp(2.5rem, 4vw, 3rem);
+    padding: 0 1rem;
+    z-index: 1;
+    width: 100%;
+    word-break: break-word;
+    text-align: center;
+}
+
+.productContainer {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+    gap: 1rem;
+   
+}
+
+.productCard {
+   width: 25%;
+   background-color: #EBEBD3;
+   border-radius: 10px;
+   transition: all 500ms linear;
+}
+
+.productCard:hover {
+    transform: scale(1.02);
+}
+
+.productImage {
+   width: 100%;
+   border-top-right-radius: 10px;
+   border-top-left-radius: 10px;
+}
+
+.productDetails {
+    padding: 6px 12px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.productDetails h3 {
+    color: black;
+    text-decoration: none;
+}
+
+.productDetails p {
+   
+}
+
+.viewbtn {
+    width: 100%;
+    background-color: black;
+    padding: 16px 12px;
+}
