@@ -33,7 +33,7 @@
     width: 100%;
     height: 100%; /* Ensures image fills the grid area */
     border-radius: 10px;
-    transition: visibilty, filter .25s ease;
+    transition: visibilty, filter 500ms ease;
 }
 
 .hover-text {
