@@ -1,0 +1,58 @@
+[
+    {
+      "src": "https://picsum.photos/300/200",
+      "alt": "Image 1",
+      "hoverText": "Hovered Text 1",
+      "link": "#"
+    },
+    {
+      "src": "https://picsum.photos/300/200",
+      "alt": "Image 2",
+      "hoverText": "Hovered Text 2",
+      "link": "#"
+    },
+    {
+      "src": "https://picsum.photos/300/200",
+      "alt": "Image 3",
+      "hoverText": "Hovered Text 3",
+      "link": "#"
+    },
+    {
+      "src": "https://picsum.photos/200",
+      "alt": "Image 4",
+      "hoverText": "Hovered Text 4",
+      "link": "#"
+    },
+    {
+      "src": "https://picsum.photos/500/200",
+      "alt": "Image 5",
+      "hoverText": "Hovered Text 5",
+      "fontSize": "4rem",
+      "fontWeight": "300",
+      "link": "#"
+    },
+    {
+      "src": "https://picsum.photos/200",
+      "alt": "Image 6",
+      "hoverText": "Hovered Text 6",
+      "link": "#"
+    },
+    {
+      "src": "https://picsum.photos/300/200",
+      "alt": "Image 7",
+      "hoverText": "Hovered Text 7",
+      "link": "#"
+    },
+    {
+      "src": "https://picsum.photos/300/200",
+      "alt": "Image 8",
+      "hoverText": "Hovered Text 8",
+      "link": "#"
+    },
+    {
+      "src": "https://picsum.photos/300/200",
+      "alt": "Image 9",
+      "hoverText": "Hovered Text 9",
+      "link": "#"
+    }
+  ]

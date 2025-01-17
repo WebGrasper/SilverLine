@@ -9,7 +9,7 @@ body {
    
 }
 
-.root {
+main {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -18,13 +18,13 @@ body {
   
 }
 
-.root > div {
+main > div {
     color: black;
     margin-top: 2rem;
     text-transform: capitalize;
 }
 
-.root > div > h1 {
+main > div > h1 {
     font-weight: 400;
     text-overflow: ellipsis;
     overflow: hidden;
