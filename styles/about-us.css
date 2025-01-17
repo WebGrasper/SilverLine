@@ -1,0 +1,73 @@
+/* Basic styling for the body */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Header styling */
+.header {
+  background-color: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Container for the main content */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Section styling */
+.section {
+  margin-bottom: 40px;
+}
+
+/* Image styling within sections */
+.section img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Heading styling */
+.section h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+/* Paragraph styling */
+.section p {
+  font-size: 1.1em;
+  color: #555;
+}
+
+/* Grid layout for sections */
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+}
+
+/* Grid item styling */
+.grid-item {
+  flex: 1;
+  text-align: center;
+}
+
+/* Icon styling */
+.grid-item img {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 10px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .grid {
+      flex-direction: column;
+  }
+}

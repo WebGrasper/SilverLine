@@ -1,50 +1,110 @@
 {
-    "furniture": {
-      "center-tables": [
-        {
-          "productCode": "CT001",
-          "material": "Sheesham Wood",
-          "Finish": "Natural Polish",
-          "size": "120x60x45 cm",
-          "image": "https://picsum.photos/200"
-        },
-        {
-          "productCode": "CT002",
-          "material": "Teak Wood",
-          "Finish": "Walnut Finish",
-          "size": "100x50x40 cm",
-          "image": "https://picsum.photos/200"
-        }
-      ],
-      "dining-tables": [
-        {
-          "productCode": "DT001",
-          "material": "Sheesham Wood",
-          "Finish": "Honey Finish",
-          "size": "180x90x75 cm",
-          "image": "https://picsum.photos/200"
-        }
-      ]
-    },
-    "decor": {
-      "vases": [
-        {
-          "productCode": "V001",
-          "material": "Ceramic",
-          "Finish": "Glossy White",
-          "size": "30x10x10 cm",
-          "image": "https://picsum.photos/200"
-        }
-      ],
-      "lamps": [
-        {
-          "productCode": "L001",
-          "material": "Metal",
-          "Finish": "Matte Black",
-          "size": "50x20x20 cm",
-          "image": "https://picsum.photos/200"
-        }
-      ]
-    }
+  "furniture": {
+    "center-tables": [
+      {
+        "productCode": "CT001",
+        "material": "Sheesham Wood",
+        "Finish": "Natural Polish",
+        "size": "120x60x45 cm",
+        "image": "https://picsum.photos/200",
+        "description": "This elegant center table, crafted from premium Sheesham wood, features a natural polish that highlights the wood's rich grain and texture. Measuring 120x60x45 cm, it offers ample surface space for your living room essentials, from coffee table books to decorative items. The sturdy construction ensures durability, making it a lasting addition to your home. Its timeless design complements a variety of interior styles, from traditional to contemporary. Whether you're hosting guests or enjoying a quiet evening, this center table serves as a functional and stylish focal point in your living space."
+      },
+      {
+        "productCode": "CT002",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200",
+        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+      },
+      {
+        "productCode": "CT002",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200",
+        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+      },
+      {
+        "productCode": "CT002",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200",
+        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+      },
+      {
+        "productCode": "CT002",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200",
+        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+      },
+      {
+        "productCode": "CT002",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200",
+        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+      },
+      {
+        "productCode": "CT002",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200",
+        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+      },
+      {
+        "productCode": "CT002",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200",
+        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+      },
+      {
+        "productCode": "CT002",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200",
+        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+      }
+    ],
+    "dining-tables": [
+      {
+        "productCode": "DT001",
+        "material": "Sheesham Wood",
+        "Finish": "Honey Finish",
+        "size": "180x90x75 cm",
+        "image": "https://picsum.photos/200",
+        "description": "This spacious dining table, crafted from durable Sheesham wood, features a beautiful honey finish that enhances its natural beauty. Measuring 180x90x75 cm, it comfortably seats six to eight people, making it perfect for family dinners and gatherings. The table's sturdy construction ensures it can handle the rigors of daily use, while its elegant design adds a touch of sophistication to your dining area. The warm honey finish complements a variety of dining room styles, from rustic to modern. Enjoy memorable meals and conversations around this inviting and stylish dining table."
+      }
+    ]
+  },
+  "decor": {
+    "vases": [
+      {
+        "productCode": "V001",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200",
+        "description": "This stylish ceramic vase, with its glossy white finish, is a chic addition to any decor. Measuring 30x10x10 cm, it is the perfect size for displaying fresh flowers or as a standalone decorative piece. The vase's sleek design and smooth finish make it a versatile accessory that can enhance any room, from the living room to the bedroom. Its neutral color allows it to blend seamlessly with various color schemes and styles, whether modern or traditional. Add a touch of elegance and sophistication to your home with this beautiful ceramic vase."
+      }
+    ],
+    "lamps": [
+      {
+        "productCode": "L001",
+        "material": "Metal",
+        "Finish": "Matte Black",
+        "size": "50x20x20 cm",
+        "image": "https://picsum.photos/200",
+        "description": "This modern metal lamp, featuring a matte black finish, is perfect for adding a touch of elegance to any room. Measuring 50x20x20 cm, it provides ample lighting while serving as a stylish decorative piece. The lamp's sleek design and contemporary finish make it a versatile addition to various interior styles, from industrial to minimalist. Its sturdy construction ensures durability, while the matte black color adds a sophisticated touch. Whether placed on a bedside table or a living room side table, this lamp enhances the ambiance of your space with its chic and functional design."
+      }
+    ]
   }
-  
+}
