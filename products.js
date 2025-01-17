@@ -72,24 +72,20 @@ function createProductCard(product) {
   const productCard = document.createElement('div');
   productCard.className = 'productCard';
 
-  // Create an anchor element with a dynamic URL
   const productLink = document.createElement('a');
   const productURL = `/product.html?category=${category}&subCategory=${subCategory}&productCode=${product.productCode}`;
   productLink.href = productURL;
-  productLink.className = 'productLink'; // Optional: Add a class for styling the link
+  productLink.className = 'productLink';
 
-  // Construct the HTML structure inside the link (this is inside the anchor tag)
   productLink.innerHTML = `
-    <img src="${product.image}" alt="${product.productCode}" class="productImage" />
-    <div>
-      <h3>Code: ${product.productCode}</h3>
-      <p>Material: ${product.material}</p>
-      <p>Finish: ${product.Finish}</p>
-      <p>Size: ${product.size} cm</p>
-    </div>
+      <img src="${product.image}" alt="${product.productCode}" class="productImage" />
+      <div class="productDetails">
+          <h3>${product.productCode}</h3>
+          <p>${product.Finish}</p>
+      </div>
+      <a href=${productURL} class="viewbtn">View</a>
   `;
 
-  // Append the anchor (product card) to the div
   productCard.appendChild(productLink);
 
   return productCard;
