@@ -38,36 +38,26 @@ function displayProductDetails(product) {
   const productDetailsContainer = document.getElementById('productDetailsContainer');
 
   const productHTML = `
-    <div class="mainContainer">
-      <div class="smallImageContainer">
-        <img src="${product.image}" alt="Product Image" class="smallImage" onclick="openModal('${product.image}')">
-      </div>
-      <div class="productSpecsContainer">
-        <h1 class="productCode">${product.productCode}</h1>
-        <p class="productFinish">Finish: <span class="pd">${product.Finish}</span></p>
-        <p class="productMaterial">Material: <span class="pd">${product.material}</span></p>
-        <p class="productSize">Size (inches): <span class="pd">${product.size}</span></p>
-        <a href="contact-us.html" class="contactusBtn">Enquire Now</a>
+    <div class="supremeContainer">
+      <div class="mainContainer">
+        <div class="container01">
+          <div class="smallImageContainer">
+            <img src="${product.image}" alt="Product Image" class="smallImage">
+          </div>
+          <div class="productSpecsContainer">
+            <h1 class="productCode">${product.productCode}</h1>
+            <p class="productFinish">Finish: <span>${product.Finish}</span></p>
+            <p class="productMaterial">Material: <span>${product.material}</span></p>
+            <p class="productSize">Size (inches): <span>${product.size}</span></p>
+          </div>
+        </div>
+       
       </div>
     </div>
   `;
 
   // Inject the HTML into the product details container
   productDetailsContainer.innerHTML = productHTML;
-}
-
-// Function to open the modal with a larger image
-function openModal(imageSrc) {
-  const modal = document.getElementById('imageModal');
-  const modalImage = document.getElementById('modalImage');
-  modal.style.display = "block";
-  modalImage.src = imageSrc;
-}
-
-// Function to close the modal
-function closeModal() {
-  const modal = document.getElementById('imageModal');
-  modal.style.display = "none";
 }
 
 // Call the function to fetch and render the product details

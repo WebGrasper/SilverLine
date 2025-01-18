@@ -1,137 +1,309 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&display=swap');
-
-body {
-    font-family: 'Noto Sans', sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f9;
-}
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Nova+Square&family=Source+Sans+3&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Gabarito:wght@800&family=Jost:wght@300;400&family=Lobster&family=Poppins:ital,wght@1,300&family=Roboto+Condensed:wght@300&family=Roboto:wght@300&display=swap');
 
 
-
-.mainContainer {
-    max-width: 1200px;
-    margin: 20px auto;
-    padding: 20px 160px;
-    background-color: #fff;
-  
-    border-radius: 8px;
-    display: flex;
-    gap: 40px;
-}
-
-.smallImageContainer {
-    flex: 1;
+.supremeContainer {
+   
+    width: 100%;
     display: flex;
     justify-content: center;
+  }
+  
+  .mainContainer {
+    width: 70rem;
+    padding: 3rem 0.5rem;
+  }
+  .container01 {
+   
+    display: flex;
+    column-gap: 4rem;
+  }
+  
+  .smallImageContainer {
+    display: flex;
     align-items: center;
-}
-
-.smallImage {
-    width: 100%;
-    max-width: 400px;
-    border-radius: 8px;
-    transition: transform 0.3s ease;
-    cursor: pointer;
-}
-
-.smallImage:hover {
-    transform: scale(1.05);
-}
-
-.productSpecsContainer {
-    flex: 2;
+    justify-content: center;
+    border-radius: 10px;
+  }
+  .smallImage {
+    width: 25rem;
+    height: 25rem;
+    border-radius: 10px;
+    background-size: 100% 100%;
+    transition: all 300ms ease;
+  }
+  
+  .smallImage:hover {
+    transform: scale(0.98);
+  }
+  
+  .productSpecsContainer {
     display: flex;
     flex-direction: column;
-    gap: 10px;
-}
-
-.productCode {
-    font-size: 2rem;
     color: black;
-    margin-bottom: 10px;
-}
-
-.productFinish,
-.productMaterial,
-.productSize,
-.productDescription {
-    font-size: 16px;
-    color: #4b4b4b;
-    margin: 5px 0;
-}
-
-.pd {
-    font-weight: 500;
-    color: black;
-}
-
-.contactusBtn {
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 16px;
-    padding: 10px 20px;
-    color: white;
-    background: black;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .productCode {
+    font-family: 'Jost';
+    width: max-content;
+    margin: 1rem 0;
+    font-size: 3rem;
+    letter-spacing: 2px;
+    line-height: 4rem;
+    color: #58101b;
+    border-bottom: 1px solid #334c5b;
+    
+  }
+  
+  .productFinish,
+  .productMaterial,
+  .productSize {
+    font-family: 'Jost';
+    color: #29335C;
+    text-align: left;
+    font-size: large;
+    font-weight: normal;
+    letter-spacing: 1px;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    word-break: break-word;
+    border-radius: 2px;
+    
+  }
+  
+  .productFinish > span,
+  .productMaterial > span,
+  .productSize > span {
+    font-family: 'Jost';
+    font-size: medium;
+    font-weight: bolder;
+    color: #a81b30;
+  }
+  
+  .bigImageContainer {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    border-radius: 10px;
+    animation: show 0.5s linear;
+  }
+  
+  .relatedProductsContainer {
+    max-width: 70rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 3rem;
+  }
+  
+  .relatedProductsContainer > div > h3 {
+    color: #334c5b;
+    padding: 0 1rem;
+    text-align: left;
+    font-size: large;
+    font-weight: 600;
+    letter-spacing: 1px;
+    line-height: 1.5rem;
+    font-size: clamp(1.25rem, 3vw, 2rem);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    word-break: break-word;
+  }
+  
+  .productContainer {
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+  }
+  
+  @keyframes show {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .bigImageContainer > div {
+    display: flex;
+    justify-content: end;
+  }
+  
+  .closeButton {
+    width: 3rem;
     cursor: pointer;
-    transition: background 0.3s ease;
-    width: fit-content;
-}
-
-.contactusBtn:hover {
-    background: gray;
-}
-
-.modal {
-    display: none;
-    position: fixed;
-    z-index: 1;
-    left: 0;
-    top: 0;
+    transition: all 300ms ease;
+  }
+  
+  .closeButton:hover {
+    transform: scale(0.9);
+    transition: all 700ms ease;
+  }
+  
+  .bigImage {
+    border-radius: 10px;
     width: 100%;
     height: 100%;
-    overflow: auto;
-    background-color: rgba(0, 0, 0, 0.8);
-}
-
-.modal-content {
-    margin: auto;
-    display: block;
-    width: 80%;
-    max-width: 700px;
-    border-radius: 8px;
-}
-
-.close {
-    position: absolute;
-    top: 15px;
-    right: 35px;
-    color: #fff;
-    font-size: 40px;
-    font-weight: bold;
-    transition: 0.3s;
-}
-
-.close:hover,
-.close:focus {
-    color: #bbb;
-    text-decoration: none;
-    cursor: pointer;
-}
-
-@media (max-width: 768px) {
-    .mainContainer {
-        flex-direction: column;
-        gap: 20px;
-        padding: 20px;
-    }
-
+    box-shadow: 0 4px 16px 0 rgba(67, 67, 67, 0.3);
+  }
+  
+  @media only screen and (max-width: 851px) {
     .smallImage {
-        width: 100%;
+      width: 26rem;
+      height: 23rem;
+      border-radius: 10px;
+      background-size: 100% 100%;
+      cursor: zoom-in;
+      transition: all 300ms ease;
     }
-    .modal-content{
-        margin-top: 80px;
+  }
+  
+  @media only screen and (max-width: 772px) {
+    .smallImage {
+      width: 23rem;
+      height: 20rem;
+      border-radius: 10px;
+      background-size: 100% 100%;
+      cursor: zoom-in;
+      transition: all 300ms ease;
     }
-}
+  }
+  
+  @media only screen and (max-width: 700px) {
+    .smallImage {
+      width: 22rem;
+      height: 19rem;
+      border-radius: 10px;
+      background-size: 100% 100%;
+      cursor: zoom-in;
+      transition: all 300ms ease;
+    }
+    .productCode {
+      font-size: 2rem;
+      line-height: 3rem;
+    }
+    .productDescription,
+    .productFinish,
+    .productCategory {
+      font-size: medium;
+      line-height: 1.25rem;
+    }
+  
+    .productDescription > span,
+    .productFinish > span,
+    .productCategory > span {
+      font-size: small;
+    }
+    .closeButton {
+      width: 2.75rem;
+    }
+  }
+  
+  @media only screen and (max-width: 660px) {
+    .container01 {
+      flex-direction: column;
+    }
+    .smallImage {
+      width: 94vw;
+      height: 26rem;
+    }
+    .productSpecsContainer {
+      padding-left: 1rem;
+    }
+    .productCode {
+      font-size: 3rem;
+      line-height: 4rem;
+    }
+    .productDescription,
+    .productFinish,
+    .productCategory {
+      font-size: large;
+      line-height: 1.5rem;
+    }
+  
+    .productDescription > span,
+    .productFinish > span,
+    .productCategory > span {
+      font-size: medium;
+    }
+    .closeButton {
+      width: 2.5rem;
+    }
+  }
+  
+  @media only screen and (max-width: 426px) {
+    .smallImage {
+      height: 24rem;
+    }
+    .productCode {
+      font-size: 2.75rem;
+      line-height: 3.75rem;
+    }
+    .closeButton {
+      top: 50px;
+      width: 2.5rem;
+    }
+  }
+  
+  @media only screen and (max-width: 376px) {
+    .smallImage {
+      height: 20rem;
+    }
+    .productCode {
+      font-size: 2.5rem;
+      line-height: 3.5rem;
+    }
+    .productDescription,
+    .productFinish,
+    .productCategory {
+      font-size: medium;
+      line-height: 1.25rem;
+    }
+  
+    .productDescription > span,
+    .productFinish > span,
+    .productCategory > span {
+      font-size: small;
+    }
+  }
+  
+  @media only screen and (max-width: 341px) {
+    .smallImage {
+      height: 17rem;
+    }
+    .productCode {
+      font-size: 2.25rem;
+      line-height: 3.5rem;
+    }
+    .closeButton {
+      top: 45px;
+      width: 2.25rem;
+    }
+  }
+  
+  @media only screen and (max-width: 320px) {
+    .smallImage {
+      height: 15rem;
+    }
+    .productCode {
+      font-size: 2rem;
+      line-height: 3rem;
+    }
+    .productDescription,
+    .productFinish,
+    .productCategory {
+      line-height: 1rem;
+    }
+    .closeButton {
+      top: 40px;
+      width: 2rem;
+    }
+  }
