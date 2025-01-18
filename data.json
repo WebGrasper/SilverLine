@@ -1,109 +1,618 @@
 {
   "furniture": {
-    "center-tables": [
+    "bistro-tables": [
       {
-        "productCode": "CT001",
+        "productCode": "SL20034",
         "material": "Sheesham Wood",
         "Finish": "Natural Polish",
         "size": "120x60x45 cm",
-        "image": "https://picsum.photos/200",
-        "description": "This elegant center table, crafted from premium Sheesham wood, features a natural polish that highlights the wood's rich grain and texture. Measuring 120x60x45 cm, it offers ample surface space for your living room essentials, from coffee table books to decorative items. The sturdy construction ensures durability, making it a lasting addition to your home. Its timeless design complements a variety of interior styles, from traditional to contemporary. Whether you're hosting guests or enjoying a quiet evening, this center table serves as a functional and stylish focal point in your living space."
+        "image": "https://picsum.photos/200"
       },
       {
-        "productCode": "CT002",
+        "productCode": "SL21420",
         "material": "Teak Wood",
         "Finish": "Walnut Finish",
         "size": "100x50x40 cm",
-        "image": "https://picsum.photos/200",
-        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+        "image": "https://picsum.photos/200"
       },
       {
-        "productCode": "CT002",
+        "productCode": "SL21389",
         "material": "Teak Wood",
         "Finish": "Walnut Finish",
         "size": "100x50x40 cm",
-        "image": "https://picsum.photos/200",
-        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+        "image": "https://picsum.photos/200"
       },
       {
-        "productCode": "CT002",
+        "productCode": "SL20035",
         "material": "Teak Wood",
         "Finish": "Walnut Finish",
         "size": "100x50x40 cm",
-        "image": "https://picsum.photos/200",
-        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+        "image": "https://picsum.photos/200"
       },
       {
-        "productCode": "CT002",
+        "productCode": "SL21114",
         "material": "Teak Wood",
         "Finish": "Walnut Finish",
         "size": "100x50x40 cm",
-        "image": "https://picsum.photos/200",
-        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+        "image": "https://picsum.photos/200"
       },
       {
-        "productCode": "CT002",
+        "productCode": "SL20149",
         "material": "Teak Wood",
         "Finish": "Walnut Finish",
         "size": "100x50x40 cm",
-        "image": "https://picsum.photos/200",
-        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+        "image": "https://picsum.photos/200"
       },
       {
-        "productCode": "CT002",
+        "productCode": "SL20150",
         "material": "Teak Wood",
         "Finish": "Walnut Finish",
         "size": "100x50x40 cm",
-        "image": "https://picsum.photos/200",
-        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+        "image": "https://picsum.photos/200"
       },
       {
-        "productCode": "CT002",
+        "productCode": "SL20033",
         "material": "Teak Wood",
         "Finish": "Walnut Finish",
         "size": "100x50x40 cm",
-        "image": "https://picsum.photos/200",
-        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+        "image": "https://picsum.photos/200"
       },
       {
-        "productCode": "CT002",
+        "productCode": "SL20021",
         "material": "Teak Wood",
         "Finish": "Walnut Finish",
         "size": "100x50x40 cm",
-        "image": "https://picsum.photos/200",
-        "description": "Crafted from high-quality teak wood, this center table features a sophisticated walnut finish that adds warmth and elegance to any room. With dimensions of 100x50x40 cm, it is perfectly sized for smaller spaces, offering functionality without overwhelming your decor. The table's sleek design and smooth finish make it a versatile piece that can easily blend with modern or classic interiors. Its robust build ensures it can withstand daily use, while the rich walnut tone provides a touch of luxury. Ideal for displaying decorative items or serving as a practical surface for everyday use."
+        "image": "https://picsum.photos/200"
       }
     ],
-    "dining-tables": [
+    "coffee-tables": [
       {
-        "productCode": "DT001",
+        "productCode": "SL21118",
         "material": "Sheesham Wood",
-        "Finish": "Honey Finish",
-        "size": "180x90x75 cm",
-        "image": "https://picsum.photos/200",
-        "description": "This spacious dining table, crafted from durable Sheesham wood, features a beautiful honey finish that enhances its natural beauty. Measuring 180x90x75 cm, it comfortably seats six to eight people, making it perfect for family dinners and gatherings. The table's sturdy construction ensures it can handle the rigors of daily use, while its elegant design adds a touch of sophistication to your dining area. The warm honey finish complements a variety of dining room styles, from rustic to modern. Enjoy memorable meals and conversations around this inviting and stylish dining table."
+        "Finish": "Natural Polish",
+        "size": "120x60x45 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20172",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20775",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL21305",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL21443",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL21427",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20869",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20753",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL21076",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20195",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      }
+    ],
+    "console-pillars": [
+      {
+        "productCode": "SL21406",
+        "material": "Sheesham Wood",
+        "Finish": "Natural Polish",
+        "size": "120x60x45 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL21462",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20275",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20616",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20264",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL21002",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20197",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20110",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20921",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20001-140",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      }
+    ],
+    "side-tables": [
+      {
+        "productCode": "SL20129",
+        "material": "Sheesham Wood",
+        "Finish": "Natural Polish",
+        "size": "120x60x45 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20550-50",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20208",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20416",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20074",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20621",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20831",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20236",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL21422",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20048",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      }
+    ],
+    "stools": [
+      {
+        "productCode": "SL20247",
+        "material": "Sheesham Wood",
+        "Finish": "Natural Polish",
+        "size": "120x60x45 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20750",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20749",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20737",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20736",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL20744",
+        "material": "Teak Wood",
+        "Finish": "Walnut Finish",
+        "size": "100x50x40 cm",
+        "image": "https://picsum.photos/200"
       }
     ]
   },
-  "decor": {
-    "vases": [
+  "home-decor": {
+    "bowls": [
       {
-        "productCode": "V001",
+        "productCode": "SL9801",
         "material": "Ceramic",
         "Finish": "Glossy White",
         "size": "30x10x10 cm",
-        "image": "https://picsum.photos/200",
-        "description": "This stylish ceramic vase, with its glossy white finish, is a chic addition to any decor. Measuring 30x10x10 cm, it is the perfect size for displaying fresh flowers or as a standalone decorative piece. The vase's sleek design and smooth finish make it a versatile accessory that can enhance any room, from the living room to the bedroom. Its neutral color allows it to blend seamlessly with various color schemes and styles, whether modern or traditional. Add a touch of elegance and sophistication to your home with this beautiful ceramic vase."
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL9800",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL9743",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10349",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL9789",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL9744",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10093",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10358",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10375",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10097",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
       }
     ],
-    "lamps": [
+    "candles-stands": [
       {
-        "productCode": "L001",
-        "material": "Metal",
-        "Finish": "Matte Black",
-        "size": "50x20x20 cm",
-        "image": "https://picsum.photos/200",
-        "description": "This modern metal lamp, featuring a matte black finish, is perfect for adding a touch of elegance to any room. Measuring 50x20x20 cm, it provides ample lighting while serving as a stylish decorative piece. The lamp's sleek design and contemporary finish make it a versatile addition to various interior styles, from industrial to minimalist. Its sturdy construction ensures durability, while the matte black color adds a sophisticated touch. Whether placed on a bedside table or a living room side table, this lamp enhances the ambiance of your space with its chic and functional design."
+        "productCode": "SL9993",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL9974",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10367",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10366",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10365",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10364",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10363",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10362",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10361",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10360",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      }
+    ],
+    "trays": [
+      {
+        "productCode": "SL9851",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL9741",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10372",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL9825",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10373",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10374",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10371",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10370",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10369",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10368",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      }
+    ],
+    "vases": [
+      {
+        "productCode": "SL10384",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10382",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10381",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10383",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10379",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10380",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10378",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10377",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10376",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
+      },
+      {
+        "productCode": "SL10375",
+        "material": "Ceramic",
+        "Finish": "Glossy White",
+        "size": "30x10x10 cm",
+        "image": "https://picsum.photos/200"
       }
     ]
   }

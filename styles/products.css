@@ -15,12 +15,12 @@ main {
     justify-content: center;
     align-items: center;
     width: 100%;
-  
 }
 
 main > div {
-    color: black;
-    margin-top: 2rem;
+    max-width: 75rem;
+    margin: 0 auto;
+    padding-block: 1rem;
     text-transform: capitalize;
 }
 
@@ -40,18 +40,13 @@ main > div > h1 {
 
 .productContainer {
     width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content:center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     align-items: center;
-    gap: 1rem;
-   
+    gap: 2rem;  
 }
 
 .productCard {
-   width: 25%;
-   background-color: #EBEBD3;
-   border-radius: 10px;
    transition: all 500ms linear;
 }
 
@@ -60,28 +55,40 @@ main > div > h1 {
 }
 
 .productImage {
-   width: 100%;
-   border-top-right-radius: 10px;
-   border-top-left-radius: 10px;
+    width: clamp(12rem, 25vw, 21rem);
 }
 
 .productDetails {
     padding: 6px 12px;
-    display: flex;
-    justify-content: space-between;
 }
 
 .productDetails h3 {
     color: black;
+    text-align: center !important;
     text-decoration: none;
-}
-
-.productDetails p {
-   
 }
 
 .viewbtn {
     width: 100%;
     background-color: black;
     padding: 16px 12px;
+}
+
+@media (max-width: 769px){
+    .productContainer {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .productImage {
+        width: clamp(12rem, 38vw, 32rem);
+    }
+}
+
+
+@media (max-width: 530px){
+    .productContainer {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .productImage {
+        width: 100% !important;
+    }
 }

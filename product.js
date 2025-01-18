@@ -47,13 +47,8 @@ function displayProductDetails(product) {
         <p class="productFinish">Finish: <span class="pd">${product.Finish}</span></p>
         <p class="productMaterial">Material: <span class="pd">${product.material}</span></p>
         <p class="productSize">Size (inches): <span class="pd">${product.size}</span></p>
-        <p class="productDescription">Description: <span class="pd">${product.description}</span></p>
         <a href="contact-us.html" class="contactusBtn">Enquire Now</a>
       </div>
-    </div>
-    <div id="imageModal" class="modal">
-      <span class="close" onclick="closeModal()">&times;</span>
-      <img class="modal-content" id="modalImage">
     </div>
   `;
 

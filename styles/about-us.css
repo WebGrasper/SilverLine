@@ -30,6 +30,10 @@
   margin-bottom: 10px;
 }
 
+.achievments-grid{
+  margin-bottom: 40px !important;
+}
+
 /* Paragraph styling */
 .section p {
   font-size: 1.1em;
@@ -40,7 +44,7 @@
 .grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 10px;
   align-items: center;
 }
 
@@ -52,8 +56,8 @@
 
 /* Icon styling */
 .grid-item img {
-  width: 80px;
-  height: 80px;
+  width: 50px;
+  height: 50px;
   margin-bottom: 10px;
 }
 

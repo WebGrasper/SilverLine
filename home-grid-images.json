@@ -1,58 +1,58 @@
 [
     {
-      "src": "https://picsum.photos/300/200",
-      "alt": "Image 1",
-      "hoverText": "Hovered Text 1",
+      "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20page/Coffee%20Tables.jpg?updatedAt=1737200929962",
+      "alt": "Coffee tables",
+      "hoverText": "Coffee Tables",
       "link": "#"
     },
     {
-      "src": "https://picsum.photos/300/200",
-      "alt": "Image 2",
-      "hoverText": "Hovered Text 2",
+      "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20page/Console%20and%20Pillars.jpg?updatedAt=1737200929966",
+      "alt": "Console and Pillars",
+      "hoverText": "Console and Pillars",
       "link": "#"
     },
     {
-      "src": "https://picsum.photos/300/200",
-      "alt": "Image 3",
-      "hoverText": "Hovered Text 3",
+      "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20page/Side%20Tables.jpg?updatedAt=1737200929970",
+      "alt": "Side tables",
+      "hoverText": "Side Tables",
       "link": "#"
     },
     {
-      "src": "https://picsum.photos/200",
-      "alt": "Image 4",
-      "hoverText": "Hovered Text 4",
+      "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20page/Bowls.jpg?updatedAt=1737200929010",
+      "alt": "Bowls",
+      "hoverText": "Bowls",
       "link": "#"
     },
     {
-      "src": "https://picsum.photos/500/200",
-      "alt": "Image 5",
-      "hoverText": "Hovered Text 5",
+      "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20page/Trays.jpg?updatedAt=1737200928660",
+      "alt": "Trays",
+      "hoverText": "Trays",
       "fontSize": "4rem",
       "fontWeight": "300",
       "link": "#"
     },
     {
-      "src": "https://picsum.photos/200",
-      "alt": "Image 6",
-      "hoverText": "Hovered Text 6",
+      "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20page/Vases.jpeg?updatedAt=1737200932731",
+      "alt": "vases",
+      "hoverText": "Vases",
       "link": "#"
     },
     {
-      "src": "https://picsum.photos/300/200",
-      "alt": "Image 7",
-      "hoverText": "Hovered Text 7",
+      "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20page/Bistro%20Tables.jpg?updatedAt=1737200929166",
+      "alt": "bistro tables",
+      "hoverText": "Bistro Tables",
       "link": "#"
     },
     {
-      "src": "https://picsum.photos/300/200",
-      "alt": "Image 8",
-      "hoverText": "Hovered Text 8",
+      "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20page/Candle%20Holders.jpg?updatedAt=1737200928766",
+      "alt": "candles-stands",
+      "hoverText": "candles-stands",
       "link": "#"
     },
     {
-      "src": "https://picsum.photos/300/200",
-      "alt": "Image 9",
-      "hoverText": "Hovered Text 9",
+      "src": "https://ik.imagekit.io/onbyl4vyfa/silverline%20assets/home%20page/Stools.jpg?updatedAt=1737200928771",
+      "alt": "stools",
+      "hoverText": "stools",
       "link": "#"
     }
   ]

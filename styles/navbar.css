@@ -75,7 +75,7 @@ button {
 
 .menu-bar li:first-child .dropdown {
   flex-direction: initial;
-  min-width: 480px;
+  min-width: 12rem;
 }
 
 .menu-bar li:first-child ul:nth-child(1) {
@@ -101,7 +101,8 @@ button {
 
 .menu-bar .nav-link:hover,
 .dropdown-link:hover {
-  color: var(--primary-color);
+  /* color: var(--primary-color); */
+  color: #636363;
 }
 
 .nav-start,
@@ -116,11 +117,11 @@ button {
 .dropdown {
   display: flex;
   flex-direction: column;
-  min-width: 230px;
+  width: 12rem;
   background-color: var(--white);
   border-radius: 10px;
   position: absolute;
-  top: 36px;
+  top: 60px;
   z-index: 1;
   visibility: hidden;
   opacity: 0;

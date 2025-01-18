@@ -54,9 +54,6 @@ function filterAndRenderProducts(data) {
     return;
   }
 
-  // Set the page title
-  pageTitle.innerText = `${category} - ${subCategory}`;
-
   // Clear any previous content in the container
   container.innerHTML = '';
 
@@ -81,9 +78,7 @@ function createProductCard(product) {
       <img src="${product.image}" alt="${product.productCode}" class="productImage" />
       <div class="productDetails">
           <h3>${product.productCode}</h3>
-          <p>${product.Finish}</p>
       </div>
-      <a href=${productURL} class="viewbtn">View</a>
   `;
 
   productCard.appendChild(productLink);

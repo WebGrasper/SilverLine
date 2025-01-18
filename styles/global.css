@@ -7,15 +7,14 @@
 
 main {
   display: flex;
-  min-height: 100vh;
   justify-content: center;
   align-items: center;
   flex-direction: column;
 }
 
 .home-section {
-  margin-inline: 3%;
-  margin-block: 6.25rem;
+  padding-inline: 5.25rem;
+  padding-block: 4rem;
 }
 
 @media only screen and (max-width: 50rem) {

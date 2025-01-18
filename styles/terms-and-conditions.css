@@ -1,0 +1,63 @@
+.root {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .root > div {
+    width: 70rem;
+  }
+  
+  .para {
+    padding: 2rem;
+  }
+  .head {
+    font-size: 30px;
+    width: max-content;
+    color: black;
+  }
+  .para > ol > li {
+    color: rgb(42, 42, 42);
+    font-size: larger;
+    margin: 10px 0px;
+  }
+  
+  .para > ol > li > p > strong {
+    color: rgb(42, 42, 42);
+  }
+  
+  .para > p {
+    color: rgb(42, 42, 42);
+  }
+  
+  .para > ol > li > ul > li {
+    color: rgb(71, 71, 71);
+    font-size: medium;
+  }
+  
+  @media (max-width: 600px) {
+    .root {
+      margin: 25px 0;
+    }
+    .para {
+      width: 100vw;
+      padding: 10px 25px;
+    }
+    .head {
+      font-size: 22px;
+    }
+    .para > ol > li {
+      font-size: 15px;
+      margin: 10px 0px;
+    }
+    .para > p {
+      font-size: 12px;
+    }
+  }
+  
+  @media (min-width: 600px) and (max-width: 900px) {
+    .para {
+      width: 90vw;
+      padding: 20px 40px;
+    }
+  }
