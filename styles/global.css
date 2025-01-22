@@ -13,15 +13,15 @@ main {
 }
 
 .home-section {
-  margin-inline: 3%;
-  margin-block: 6.25rem;
-  max-width: 80rem;
+  margin: 2rem auto;
+  max-width: 75rem;
+  padding-inline: 48px;
 }
 
 @media only screen and (max-width: 50rem) {
   .home-section {
-    margin-inline: 2rem;
-    margin-block: 3.125rem;
+    /* margin-inline: 2rem;
+    margin-block: 3.125rem; */
   }
 }
 
