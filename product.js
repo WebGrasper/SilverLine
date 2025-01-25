@@ -49,6 +49,7 @@ function displayProductDetails(product) {
             <p class="productFinish">Finish: <span>${product.Finish}</span></p>
             <p class="productMaterial">Material: <span>${product.material}</span></p>
             <p class="productSize">Size (inches): <span>${product.size}</span></p>
+            <a href="/contact-us.html" target="_blank" class="contactBtn">Enquire Now</a>
           </div>
         </div>
        

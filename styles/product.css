@@ -54,6 +54,13 @@
     border-bottom: 1px solid #334c5b;
     
   }
+  .contactBtn{
+    background-color: #a81b30;
+    padding: 10px 15px;
+    max-width: fit-content;
+    color: white;
+    border-radius: 6px;
+  }
   
   .productFinish,
   .productMaterial,
