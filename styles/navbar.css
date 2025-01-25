@@ -63,7 +63,7 @@ button {
   justify-content: space-between;
   column-gap: 2rem;
   height: 90px;
-  padding: 1.2rem 3rem;
+  padding: 1.2rem 1rem;
   max-width: 1200px;
   margin: 0 auto;
 }

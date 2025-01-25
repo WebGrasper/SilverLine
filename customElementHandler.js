@@ -29,7 +29,7 @@ class HomeGallery extends HTMLElement {
       // Create anchor tag
       const anchorElement = document.createElement("a");
       anchorElement.href = item.link; // Use the link from the data
-      anchorElement.target = "_blank"; // Open the link in a new tab (optional)
+      anchorElement.target = ""; // Open the link in a new tab (optional)
 
       // Create image element
       const imgElement = document.createElement("img");

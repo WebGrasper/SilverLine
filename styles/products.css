@@ -49,6 +49,8 @@ main > div > h1 {
 
 .productCard {
    transition: all 500ms linear;
+   border: 1px solid rgb(220, 220, 220);
+   border-radius: 10px;
 }
 
 .productCard:hover {
@@ -57,6 +59,7 @@ main > div > h1 {
 
 .productImage {
     width: clamp(12rem, 25vw, 21rem);
+    padding: 1rem;
 }
 
 .productDetails {

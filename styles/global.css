@@ -13,9 +13,9 @@ main {
 }
 
 .home-section {
-  margin: 2rem auto;
+  /* margin: 2rem auto; */
   max-width: 75rem;
-  padding-inline: 48px;
+  padding: 2rem 1rem;
 }
 
 @media only screen and (max-width: 50rem) {
