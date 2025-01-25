@@ -104,6 +104,13 @@
       row-gap: 2rem;
       padding: 2rem 1rem;
     }
+    .footerLogo {
+      justify-content: center;
+    }
+
+    .footerDescription {
+      text-align: justify;
+    }
   
     .container1,
     .container2,
